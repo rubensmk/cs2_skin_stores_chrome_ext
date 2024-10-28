@@ -1,0 +1,35 @@
+/* Estilos para o botão */
+.customButton {
+    margin-bottom: 10px;
+    padding: 5px 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 4px;
+  }
+  
+  .customButton:hover {
+    background-color: #45a049;
+  }
+  
+  /* Estilos para o container de links */
+  .linkContainer {
+    width: 300px;
+    height: 120px;
+    border-radius: 8px;
+    padding: 0px 8px;
+    border: 1px solid #ccc;
+    background-color: #1C1E21;
+  }
+  
+  .linkContainer a {
+    display: block;
+    text-decoration: none;
+    color: white;
+  }
+  
+  .linkContainer a:hover {
+    text-decoration: underline;
+  }
+  

@@ -1,6 +1,6 @@
 /* Estilos para o botão */
 .customButton {
-    margin-bottom: 10px;
+    margin: 10px;
     padding: 5px 10px;
     background-color: #4CAF50;
     color: white;
@@ -15,6 +15,7 @@
   
   /* Estilos para o container de links */
   .linkContainer {
+    margin: 10px;
     width: 300px;
     height: 120px;
     border-radius: 8px;
@@ -27,6 +28,7 @@
     display: block;
     text-decoration: none;
     color: white;
+    padding: 8px;
   }
   
   .linkContainer a:hover {
